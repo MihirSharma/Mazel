@@ -1,4 +1,4 @@
 # Mazel
-Mazel Engine - My implementation of the Hazel Engine (The Cherno)
+Mazel Engine - My implementation of the Hazel Engine (by The Cherno)
 
 https://github.com/TheCherno/Hazel
